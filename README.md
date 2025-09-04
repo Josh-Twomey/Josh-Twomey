@@ -18,8 +18,6 @@ I'm a developer passionate about building useful apps that solve real problems. 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Josh-Twomey&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josh-Twomey&layout=compact&theme=radical)
 
 
